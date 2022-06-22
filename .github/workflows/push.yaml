@@ -10,7 +10,7 @@ on:
 jobs:
   # Documentation
   docs:
-    name: Lint and type check
+    name: Sphinx documentation
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
