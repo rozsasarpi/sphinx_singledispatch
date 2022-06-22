@@ -43,7 +43,7 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 # If this is commented out and they are installed in the environment then the build (`make html`) will succeed.
-autodoc_mock_imports = ["xarray", "numpy"]
+# autodoc_mock_imports = ["xarray", "numpy"]
 
 # -- Options for HTML output -------------------------------------------------
 
